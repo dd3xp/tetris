@@ -1,0 +1,6420 @@
+Generated shape: 4
+Generated shape: 1
+Generated shape: 1
+Generated shape: 2
+Generated shape: 2
+Generated shape: 0
+Generated shape: 2
+Generated shape: 3
+Cleared by shape: 3
+Generated shape: 3
+Generated shape: 4
+Generated shape: 4
+Cleared by shape: 5
+Generated shape: 2
+Cleared by shape: 1
+Generated shape: 5
+Generated shape: 0
+Generated shape: 2
+Generated shape: 2
+Generated shape: 0
+Generated shape: 2
+Generated shape: 2
+Generated shape: 1
+Generated shape: 1
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: 0
+Generated shape: 3
+Generated shape: 6
+Generated shape: 1
+Generated shape: 2
+Generated shape: 5
+Generated shape: 2
+Generated shape: 1
+Cleared by shape: 3
+Generated shape: 3
+Generated shape: 5
+Generated shape: 3
+Generated shape: 1
+Generated shape: 4
+Generated shape: 2
+Generated shape: 0
+Generated shape: 6
+Generated shape: 6
+Generated shape: 2
+Generated shape: 3
+Generated shape: 5
+Cleared by shape: 2
+Generated shape: 6
+Generated shape: 1
+Generated shape: 3
+Generated shape: 1
+Generated shape: 6
+Generated shape: 4
+Generated shape: 1
+Generated shape: 0
+Generated shape: 0
+Generated shape: 6
+Generated shape: 6
+Cleared by shape: 6
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: L
+Generated shape: S
+Generated shape: I
+Generated shape: O
+Generated shape: S
+Generated shape: S
+Generated shape: O
+Generated shape: L
+Generated shape: L
+Generated shape: J
+Generated shape: O
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: I
+Generated shape: J
+Generated shape: I
+Generated shape: I
+Generated shape: 2
+Generated shape: 0
+Generated shape: 0
+Generated shape: 0
+Generated shape: 2
+Generated shape: 6
+Generated shape: 4
+Generated shape: 3
+Generated shape: 6
+Generated shape: 6
+Generated shape: S
+Generated shape: I
+Generated shape: J
+Generated shape: T
+Generated shape: L
+Generated shape: L
+Generated shape: L
+Generated shape: I
+Generated shape: L
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: O
+Generated shape: T
+Generated shape: Z
+Generated shape: O
+Generated shape: L
+Generated shape: I
+Generated shape: O
+Generated shape: J
+Generated shape: L
+Generated shape: O
+Generated shape: L
+Generated shape: T
+Generated shape: J
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: S
+Generated shape: J
+Cleared by shape: O
+Generated shape: Z
+Generated shape: I
+Cleared by shape: S
+Generated shape: S
+Generated shape: S
+Generated shape: T
+Generated shape: I
+Cleared by shape: O
+Generated shape: L
+Generated shape: J
+Generated shape: O
+Generated shape: I
+Generated shape: Z
+Cleared by shape: I
+Generated shape: O
+Generated shape: I
+Generated shape: L
+Cleared by shape: J
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: O
+Generated shape: S
+Generated shape: O
+Generated shape: I
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: O
+Generated shape: I
+Generated shape: I
+Generated shape: T
+Cleared by shape: I
+Generated shape: T
+Generated shape: Z
+Generated shape: S
+Generated shape: O
+Cleared by shape: J
+Generated shape: S
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Generated shape: J
+Generated shape: O
+Generated shape: L
+Generated shape: T
+Cleared by shape: O
+Cleared by shape: O
+Generated shape: L
+Generated shape: L
+Generated shape: O
+Generated shape: L
+Generated shape: I
+Generated shape: S
+Cleared by shape: L
+Generated shape: S
+Generated shape: Z
+Generated shape: O
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: Z
+Generated shape: O
+Generated shape: O
+Generated shape: I
+Generated shape: L
+Generated shape: O
+Cleared by shape: O
+Generated shape: L
+Generated shape: S
+Generated shape: S
+Cleared by shape: I
+Generated shape: J
+Generated shape: L
+Generated shape: T
+Generated shape: O
+Generated shape: J
+Generated shape: Z
+Generated shape: L
+Generated shape: S
+Generated shape: I
+Generated shape: S
+Generated shape: J
+Generated shape: S
+Generated shape: I
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: S
+Generated shape: L
+Generated shape: O
+Generated shape: O
+Generated shape: T
+Generated shape: Z
+Generated shape: J
+Cleared by shape: J
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: O
+Generated shape: J
+Generated shape: S
+Generated shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: T
+Cleared by shape: T
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: T
+Cleared by shape: T
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: J
+Generated shape: J
+Cleared by shape: J
+Generated shape: Z
+Generated shape: T
+Generated shape: L
+Cleared by shape: L
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: T
+Cleared by shape: T
+Generated shape: T
+Cleared by shape: T
+Generated shape: L
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: Z
+Generated shape: S
+Generated shape: Z
+Generated shape: S
+Generated shape: I
+Generated shape: J
+Generated shape: J
+Generated shape: T
+Generated shape: O
+Generated shape: Z
+Generated shape: T
+Generated shape: S
+Generated shape: L
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Generated shape: Z
+Generated shape: L
+Generated shape: S
+Cleared by shape: S
+Generated shape: Z
+Generated shape: I
+Generated shape: T
+Generated shape: T
+Generated shape: O
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: L
+Cleared by shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Generated shape: L
+Generated shape: I
+Generated shape: Z
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: O
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: Z
+Generated shape: T
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: O
+Generated shape: J
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: T
+Generated shape: L
+Cleared by shape: L
+Generated shape: S
+Generated shape: O
+Generated shape: L
+Generated shape: O
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: O
+Cleared by shape: O
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: J
+Generated shape: T
+Generated shape: L
+Generated shape: T
+Generated shape: O
+Generated shape: L
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: S
+Cleared by shape: S
+Generated shape: S
+Generated shape: S
+Generated shape: L
+Generated shape: S
+Generated shape: O
+Generated shape: O
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: O
+Generated shape: S
+Generated shape: T
+Cleared by shape: T
+Generated shape: O
+Generated shape: J
+Generated shape: T
+Generated shape: O
+Generated shape: J
+Generated shape: S
+Generated shape: O
+Generated shape: T
+Generated shape: J
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Cleared by shape:  
+Cleared by shape:  
+Generated shape: L
+Generated shape: O
+Generated shape: L
+Generated shape: O
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: S
+Cleared by shape: S
+Generated shape: S
+Cleared by shape: S
+Generated shape: I
+Generated shape: I
+Generated shape: O
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: Z
+Generated shape: O
+Generated shape: J
+Generated shape: S
+Generated shape: Z
+Generated shape: Z
+Generated shape: O
+Generated shape: S
+Generated shape: L
+Generated shape: J
+Generated shape: Z
+Generated shape: T
+Generated shape: O
+Generated shape: L
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: Z
+Generated shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: T
+Generated shape: Z
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: J
+Cleared by shape: J
+Generated shape: L
+Cleared by shape: L
+Generated shape: T
+Generated shape: L
+Generated shape: I
+Generated shape: S
+Generated shape: O
+Generated shape: T
+Generated shape: Z
+Generated shape: O
+Generated shape: J
+Generated shape: S
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Generated shape: S
+Generated shape: O
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Cleared by shape:  
+Generated shape: T
+Generated shape: O
+Generated shape: L
+Generated shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: S
+Generated shape: O
+Generated shape: J
+Generated shape: L
+Cleared by shape: L
+Generated shape: I
+Generated shape: L
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Cleared by shape:  
+Cleared by shape:  
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Cleared by shape:  
+Cleared by shape:  
+Generated shape: O
+Generated shape: J
+Generated shape: T
+Generated shape: T
+Generated shape: J
+Generated shape: J
+Generated shape: J
+Generated shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: S
+Cleared by shape: S
+Generated shape: O
+Generated shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Cleared by shape:  
+Generated shape: T
+Generated shape: S
+Generated shape: L
+Generated shape: T
+Generated shape: J
+Generated shape: S
+Generated shape: J
+Cleared by shape: J
+Generated shape: S
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: T
+Generated shape: L
+Cleared by shape: L
+Generated shape: J
+Generated shape: L
+Generated shape: J
+Generated shape: J
+Generated shape: L
+Generated shape: L
+Generated shape: O
+Generated shape: O
+Generated shape: Z
+Generated shape: O
+Generated shape: J
+Generated shape: O
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: J
+Generated shape: T
+Generated shape: T
+Generated shape: O
+Generated shape: I
+Generated shape: S
+Generated shape: T
+Generated shape: S
+Generated shape: O
+Generated shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: T
+Generated shape: I
+Generated shape: T
+Generated shape: S
+Generated shape: I
+Generated shape: I
+Generated shape: Z
+Generated shape: L
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: I
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: I
+Generated shape: O
+Cleared by shape: O
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: T
+Generated shape: T
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: T
+Generated shape: L
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: S
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Generated shape: Z
+Generated shape: O
+Generated shape: O
+Generated shape: O
+Generated shape: Z
+Generated shape: O
+Cleared by shape: O
+Generated shape: I
+Generated shape: S
+Generated shape: J
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: Z
+Generated shape: S
+Generated shape: Z
+Generated shape: O
+Generated shape: O
+Generated shape: O
+Generated shape: L
+Generated shape: O
+Generated shape: S
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: T
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Generated shape: S
+Generated shape: Z
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: S
+Generated shape: Z
+Generated shape: O
+Generated shape: T
+Generated shape: S
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Cleared by shape:  
+Generated shape: J
+Generated shape: O
+Generated shape: O
+Generated shape: S
+Generated shape: L
+Generated shape: T
+Generated shape: J
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: L
+Generated shape: L
+Generated shape: T
+Generated shape: Z
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: S
+Generated shape: L
+Generated shape: T
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Generated shape: T
+Generated shape: T
+Generated shape: Z
+Generated shape: J
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Generated shape: T
+Generated shape: S
+Generated shape: T
+Generated shape: J
+Generated shape: T
+Generated shape: L
+Generated shape: O
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Generated shape: L
+Generated shape: L
+Generated shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Generated shape: O
+Generated shape: O
+Generated shape: T
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: Z
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: T
+Generated shape: O
+Generated shape: T
+Generated shape: L
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Generated shape: O
+Generated shape: T
+Generated shape: S
+Generated shape: T
+Generated shape: L
+Generated shape: J
+Generated shape: O
+Generated shape: T
+Generated shape: S
+Generated shape: I
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: Z
+Generated shape: I
+Generated shape: J
+Cleared by shape: J
+Generated shape: I
+Generated shape: S
+Generated shape: S
+Generated shape: T
+Generated shape: I
+Generated shape: J
+Cleared by shape: J
+Generated shape: J
+Generated shape: O
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Generated shape: L
+Generated shape: O
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: I
+Generated shape: S
+Generated shape: S
+Generated shape: L
+Cleared by shape: L
+Generated shape: S
+Generated shape: I
+Generated shape: T
+Generated shape: L
+Generated shape: O
+Generated shape: O
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: I
+Generated shape: O
+Generated shape: L
+Generated shape: S
+Generated shape: O
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Generated shape: T
+Generated shape: S
+Generated shape: O
+Generated shape: L
+Generated shape: L
+Generated shape: T
+Generated shape: I
+Generated shape: Z
+Generated shape: O
+Generated shape: I
+Generated shape: J
+Generated shape: T
+Generated shape: L
+Generated shape: L
+Generated shape: Z
+Generated shape: L
+Generated shape: L
+Generated shape: S
+Generated shape: J
+Generated shape: T
+Generated shape: S
+Generated shape: S
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: Z
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Generated shape: I
+Generated shape: Z
+Generated shape: O
+Generated shape: O
+Generated shape: O
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Cleared by shape: O
+Generated shape: I
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: T
+Generated shape: O
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: T
+Generated shape: L
+Cleared by shape: L
+Generated shape: L
+Generated shape: Z
+Generated shape: Z
+Generated shape: L
+Cleared by shape: L
+Generated shape: Z
+Generated shape: I
+Generated shape: T
+Cleared by shape: T
+Generated shape: Z
+Generated shape: T
+Generated shape: Z
+Generated shape: J
+Generated shape: I
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: L
+Generated shape: I
+Generated shape: J
+Generated shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: S
+Generated shape: L
+Generated shape: Z
+Generated shape: L
+Generated shape: L
+Generated shape: T
+Generated shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: O
+Generated shape: L
+Generated shape: S
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: J
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Cleared by shape: T
+Generated shape: O
+Generated shape: T
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: O
+Generated shape: O
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: Z
+Generated shape: O
+Generated shape: I
+Generated shape: Z
+Generated shape: Z
+Generated shape: I
+Generated shape: S
+Generated shape: T
+Generated shape: O
+Generated shape: O
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: S
+Generated shape: L
+Generated shape: O
+Generated shape: J
+Generated shape: L
+Generated shape: S
+Generated shape: I
+Generated shape: S
+Generated shape: O
+Generated shape: S
+Generated shape: J
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: L
+Generated shape: I
+Generated shape: L
+Generated shape: S
+Generated shape: J
+Generated shape: T
+Generated shape: O
+Generated shape: I
+Generated shape: Z
+Generated shape: J
+Cleared by shape: J
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: Z
+Generated shape: J
+Generated shape: J
+Generated shape: J
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: O
+Generated shape: S
+Generated shape: T
+Generated shape: L
+Generated shape: J
+Generated shape: L
+Generated shape: Z
+Generated shape: O
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Generated shape: L
+Generated shape: Z
+Generated shape: I
+Generated shape: T
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: O
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: S
+Generated shape: S
+Generated shape: O
+Generated shape: L
+Cleared by shape: L
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: S
+Generated shape: S
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: J
+Generated shape: I
+Generated shape: J
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: J
+Generated shape: Z
+Generated shape: O
+Generated shape: T
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: L
+Generated shape: Z
+Generated shape: Z
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: Z
+Generated shape: T
+Generated shape: O
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: J
+Generated shape: S
+Generated shape: J
+Generated shape: O
+Generated shape: O
+Generated shape: Z
+Generated shape: J
+Generated shape: Z
+Generated shape: J
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: J
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: T
+Cleared by shape: T
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: L
+Generated shape: J
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: T
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Generated shape: O
+Generated shape: J
+Generated shape: S
+Generated shape: I
+Generated shape: I
+Generated shape: S
+Generated shape: L
+Generated shape: S
+Generated shape: T
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: L
+Generated shape: T
+Generated shape: O
+Generated shape: S
+Generated shape: L
+Generated shape: Z
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: S
+Generated shape: Z
+Generated shape: S
+Generated shape: I
+Generated shape: I
+Generated shape: T
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: O
+Generated shape: L
+Cleared by shape: L
+Generated shape: S
+Generated shape: I
+Generated shape: S
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: J
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: L
+Cleared by shape: L
+Generated shape: J
+Generated shape: I
+Generated shape: S
+Generated shape: J
+Generated shape: T
+Generated shape: I
+Generated shape: J
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: T
+Cleared by shape: T
+Generated shape: T
+Generated shape: S
+Generated shape: S
+Generated shape: O
+Generated shape: L
+Generated shape: J
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: I
+Generated shape: Z
+Generated shape: Z
+Generated shape: S
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: S
+Generated shape: T
+Generated shape: J
+Generated shape: L
+Generated shape: J
+Generated shape: O
+Generated shape: I
+Generated shape: L
+Generated shape: S
+Generated shape: S
+Cleared by shape: S
+Generated shape: L
+Generated shape: S
+Generated shape: L
+Generated shape: J
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Generated shape: T
+Generated shape: S
+Generated shape: I
+Generated shape: L
+Generated shape: T
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: O
+Generated shape: T
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: T
+Cleared by shape: T
+Generated shape: L
+Generated shape: O
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Generated shape: L
+Generated shape: S
+Generated shape: Z
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: T
+Generated shape: Z
+Generated shape: T
+Generated shape: O
+Generated shape: T
+Generated shape: L
+Generated shape: Z
+Generated shape: T
+Cleared by shape: T
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: J
+Generated shape: Z
+Generated shape: T
+Generated shape: O
+Generated shape: Z
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: Z
+Generated shape: L
+Generated shape: S
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Generated shape: J
+Generated shape: O
+Generated shape: Z
+Generated shape: L
+Generated shape: L
+Generated shape: J
+Generated shape: I
+Generated shape: O
+Generated shape: J
+Generated shape: L
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: I
+Generated shape: I
+Generated shape: J
+Generated shape: S
+Generated shape: I
+Generated shape: T
+Generated shape: S
+Generated shape: J
+Generated shape: T
+Generated shape: J
+Generated shape: T
+Generated shape: T
+Generated shape: T
+Generated shape: J
+Cleared by shape: J
+Generated shape: Z
+Generated shape: J
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: T
+Generated shape: J
+Cleared by shape: J
+Generated shape: L
+Generated shape: O
+Generated shape: I
+Generated shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: J
+Generated shape: I
+Generated shape: S
+Generated shape: S
+Generated shape: L
+Cleared by shape: L
+Generated shape: T
+Generated shape: T
+Cleared by shape: T
+Generated shape: I
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: O
+Generated shape: O
+Generated shape: L
+Generated shape: L
+Generated shape: L
+Generated shape: T
+Generated shape: T
+Generated shape: J
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: I
+Generated shape: S
+Generated shape: S
+Generated shape: T
+Cleared by shape: T
+Generated shape: L
+Generated shape: O
+Generated shape: L
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: O
+Generated shape: O
+Generated shape: T
+Generated shape: O
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: O
+Generated shape: O
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: J
+Cleared by shape: J
+Cleared by shape: J
+Generated shape: J
+Generated shape: O
+Generated shape: T
+Generated shape: S
+Generated shape: Z
+Generated shape: O
+Generated shape: T
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: J
+Generated shape: O
+Generated shape: L
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: O
+Generated shape: S
+Generated shape: T
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: T
+Generated shape: O
+Generated shape: O
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: L
+Generated shape: S
+Generated shape: T
+Generated shape: L
+Generated shape: J
+Generated shape: J
+Generated shape: J
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: Z
+Generated shape: T
+Generated shape: L
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: T
+Cleared by shape: T
+Generated shape: S
+Generated shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: L
+Generated shape: Z
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: L
+Generated shape: S
+Generated shape: L
+Generated shape: T
+Generated shape: L
+Cleared by shape: L
+Generated shape: O
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: I
+Generated shape: S
+Generated shape: S
+Generated shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: T
+Generated shape: J
+Generated shape: Z
+Generated shape: T
+Generated shape: Z
+Generated shape: T
+Generated shape: S
+Generated shape: L
+Generated shape: Z
+Generated shape: T
+Generated shape: L
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: S
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: S
+Generated shape: L
+Generated shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: S
+Generated shape: Z
+Generated shape: S
+Generated shape: T
+Generated shape: T
+Generated shape: Z
+Generated shape: Z
+Generated shape: O
+Generated shape: L
+Cleared by shape: L
+Generated shape: L
+Generated shape: O
+Generated shape: L
+Generated shape: O
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Generated shape: O
+Cleared by shape: O
+Generated shape: J
+Cleared by shape: J
+Cleared by shape: J
+Cleared by shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: S
+Generated shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: O
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: L
+Cleared by shape: L
+Generated shape: J
+Cleared by shape: J
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: O
+Generated shape: J
+Cleared by shape: J
+Generated shape: T
+Generated shape: Z
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: I
+Generated shape: O
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: O
+Generated shape: L
+Generated shape: L
+Generated shape: T
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: O
+Generated shape: T
+Generated shape: O
+Generated shape: S
+Generated shape: O
+Generated shape: T
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: S
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: I
+Generated shape: S
+Generated shape: Z
+Generated shape: Z
+Generated shape: J
+Generated shape: L
+Cleared by shape: L
+Generated shape: S
+Generated shape: I
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Cleared by shape: J
+Generated shape: L
+Generated shape: J
+Cleared by shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: Z
+Generated shape: S
+Generated shape: O
+Generated shape: T
+Generated shape: S
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: J
+Cleared by shape: J
+Cleared by shape: J
+Cleared by shape: J
+Cleared by shape: J
+Generated shape: Z
+Generated shape: I
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: L
+Generated shape: Z
+Generated shape: O
+Generated shape: S
+Generated shape: J
+Cleared by shape: J
+Generated shape: T
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: S
+Generated shape: Z
+Generated shape: T
+Generated shape: L
+Generated shape: L
+Generated shape: L
+Generated shape: L
+Generated shape: O
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: J
+Cleared by shape: J
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: J
+Generated shape: T
+Generated shape: I
+Generated shape: Z
+Generated shape: L
+Generated shape: J
+Generated shape: J
+Generated shape: T
+Generated shape: I
+Generated shape: J
+Generated shape: T
+Generated shape: T
+Generated shape: O
+Generated shape: J
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Generated shape: S
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: S
+Generated shape: T
+Generated shape: Z
+Generated shape: L
+Generated shape: S
+Generated shape: S
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Generated shape: L
+Generated shape: Z
+Generated shape: Z
+Generated shape: O
+Generated shape: Z
+Generated shape: J
+Generated shape: O
+Generated shape: S
+Generated shape: J
+Generated shape: I
+Generated shape: Z
+Generated shape: I
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Generated shape: O
+Generated shape: Z
+Generated shape: L
+Generated shape: T
+Generated shape: L
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: Z
+Generated shape: T
+Generated shape: I
+Generated shape: O
+Generated shape: Z
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: O
+Generated shape: I
+Generated shape: O
+Generated shape: S
+Generated shape: L
+Generated shape: Z
+Generated shape: Z
+Generated shape: Z
+Generated shape: J
+Generated shape: I
+Generated shape: Z
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 1
+Cleared by shape: 1
+Cleared by shape: 1
+Cleared by shape: 1
+Generated shape: Z
+Generated shape: T
+Generated shape: I
+Generated shape: L
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 1
+Cleared by shape: 1
+Cleared by shape: 1
+Generated shape: L
+Generated shape: L
+Generated shape: S
+Generated shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: L
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: J
+Cleared by shape: J
+Generated shape: X
+Generated shape: J
+Generated shape: I
+Generated shape: I
+Generated shape: Z
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: T
+Generated shape: T
+Generated shape: T
+Generated shape: T
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Generated shape: O
+Generated shape: J
+Generated shape: S
+Generated shape: J
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Generated shape: T
+Cleared by shape: T
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: L
+Generated shape: T
+Cleared by shape: T
+Generated shape: S
+Generated shape: O
+Generated shape: L
+Generated shape: Z
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: n
+Cleared by shape: n
+Generated shape: O
+Generated shape: J
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: S
+Generated shape: J
+Cleared by shape: J
+Generated shape: O
+Generated shape: L
+Generated shape: L
+Generated shape: O
+Generated shape: T
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: S
+Generated shape: O
+Generated shape: O
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: L
+Generated shape: L
+Generated shape: Z
+Generated shape: I
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: Z
+Generated shape: L
+Cleared by shape: L
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: L
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: S
+Generated shape: Z
+Generated shape: Z
+Generated shape: S
+Generated shape: T
+Generated shape: L
+Generated shape: Z
+Generated shape: T
+Generated shape: Z
+Generated shape: Z
+Generated shape: L
+Generated shape: T
+Generated shape: T
+Generated shape: T
+Generated shape: S
+Generated shape: L
+Generated shape: O
+Generated shape: T
+Generated shape: S
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: Z
+Generated shape: L
+Cleared by shape: L
+Generated shape: T
+Cleared by shape: T
+Generated shape: Z
+Generated shape: I
+Generated shape: T
+Generated shape: S
+Generated shape: L
+Generated shape: O
+Generated shape: T
+Generated shape: T
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Generated shape: I
+Generated shape: L
+Generated shape: I
+Generated shape: O
+Generated shape: O
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: Z
+Generated shape: O
+Generated shape: O
+Generated shape: O
+Generated shape: S
+Generated shape: T
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: L
+Generated shape: T
+Generated shape: O
+Generated shape: J
+Generated shape: O
+Generated shape: Z
+Generated shape: O
+Generated shape: J
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Generated shape: I
+Generated shape: J
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Cleared by shape: L
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Generated shape: J
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: I
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: S
+Generated shape: T
+Generated shape: T
+Generated shape: O
+Generated shape: Z
+Generated shape: L
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: I
+Generated shape: I
+Generated shape: T
+Generated shape: o
+Generated shape: I
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: T
+Generated shape: L
+Generated shape: o
+Generated shape: Z
+Generated shape: o
+Generated shape: L
+Generated shape: T
+Generated shape: Z
+Generated shape: o
+Generated shape: S
+Generated shape: O
+Generated shape: L
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: J
+Generated shape: Z
+Generated shape: L
+Generated shape: S
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: T
+Generated shape: L
+Generated shape: Z
+Generated shape: S
+Generated shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: J
+Generated shape: I
+Generated shape: Z
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: O
+Generated shape: I
+Generated shape: O
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Cleared by shape: L
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: L
+Generated shape: I
+Generated shape: Z
+Generated shape: L
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: O
+Generated shape: Z
+Generated shape: T
+Generated shape: L
+Generated shape: S
+Generated shape: T
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: S
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: T
+Generated shape: Z
+Generated shape: Z
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Cleared by shape: i
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Cleared by shape: i
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: O
+Generated shape: T
+Generated shape: Z
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Generated shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: Z
+Generated shape: S
+Generated shape: I
+Generated shape: T
+Generated shape: T
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: O
+Generated shape: T
+Generated shape: Z
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: S
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Cleared by shape: i
+Cleared by shape: i
+Cleared by shape: i
+Generated shape: T
+Generated shape: T
+Generated shape: O
+Generated shape: O
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: L
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: Z
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Generated shape: J
+Cleared by shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: J
+Generated shape: T
+Generated shape: L
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: I
+Generated shape: T
+Cleared by shape: T
+Generated shape: L
+Generated shape: Z
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: I
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Cleared by shape: T
+Generated shape: T
+Cleared by shape: T
+Generated shape: T
+Generated shape: L
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: T
+Generated shape: Z
+Generated shape: O
+Generated shape: O
+Generated shape: S
+Generated shape: Z
+Generated shape: O
+Generated shape: L
+Cleared by shape: L
+Generated shape: J
+Generated shape: L
+Cleared by shape: L
+Generated shape: O
+Generated shape: T
+Cleared by shape: T
+Generated shape: Z
+Generated shape: T
+Generated shape: O
+Generated shape: O
+Generated shape: S
+Generated shape: Z
+Generated shape: O
+Generated shape: S
+Generated shape: S
+Generated shape: Z
+Generated shape: S
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: T
+Generated shape: T
+Generated shape: L
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: I
+Cleared by shape: I
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: Z
+Generated shape: T
+Generated shape: L
+Generated shape: S
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Cleared by shape: i
+Cleared by shape: i
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: T
+Generated shape: S
+Generated shape: I
+Generated shape: S
+Generated shape: Z
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: T
+Generated shape: T
+Cleared by shape: T
+Generated shape: L
+Cleared by shape: L
+Generated shape: L
+Generated shape: L
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: T
+Generated shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: Z
+Generated shape: L
+Cleared by shape: L
+Generated shape: J
+Generated shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: T
+Generated shape: J
+Generated shape: T
+Generated shape: O
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: O
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: L
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: O
+Generated shape: J
+Generated shape: T
+Generated shape: I
+Generated shape: S
+Generated shape: J
+Generated shape: O
+Generated shape: I
+Generated shape: L
+Generated shape: J
+Generated shape: O
+Generated shape: Z
+Generated shape: L
+Generated shape: T
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: T
+Generated shape: T
+Cleared by shape: T
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: S
+Generated shape: L
+Cleared by shape: L
+Generated shape: L
+Cleared by shape: L
+Generated shape: Z
+Generated shape: I
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Cleared by shape: i
+Generated shape: L
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: J
+Generated shape: S
+Generated shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: J
+Cleared by shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: S
+Generated shape: I
+Generated shape: O
+Generated shape: I
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Cleared by shape: i
+Generated shape: O
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: L
+Generated shape: O
+Generated shape: J
+Generated shape: I
+Generated shape: J
+Generated shape: T
+Generated shape: T
+Generated shape: Z
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: T
+Generated shape: L
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: L
+Generated shape: L
+Generated shape: Z
+Generated shape: O
+Generated shape: Z
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: Z
+Generated shape: T
+Generated shape: O
+Generated shape: O
+Generated shape: L
+Generated shape: S
+Generated shape: O
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: L
+Generated shape: T
+Generated shape: S
+Generated shape: O
+Cleared by shape: O
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: S
+Generated shape: I
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Generated shape: T
+Generated shape: T
+Generated shape: T
+Generated shape: T
+Generated shape: S
+Generated shape: J
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: Z
+Generated shape: Z
+Generated shape: J
+Generated shape: J
+Generated shape: Z
+Generated shape: S
+Generated shape: L
+Cleared by shape: L
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: I
+Generated shape: J
+Generated shape: J
+Generated shape: J
+Generated shape: J
+Generated shape: J
+Generated shape: Z
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: S
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: T
+Generated shape: S
+Generated shape: O
+Generated shape: O
+Generated shape: L
+Generated shape: Z
+Generated shape: S
+Generated shape: O
+Generated shape: O
+Generated shape: L
+Generated shape: S
+Generated shape: J
+Generated shape: O
+Generated shape: T
+Generated shape: T
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: J
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: I
+Generated shape: S
+Generated shape: L
+Generated shape: L
+Cleared by shape: L
+Generated shape: O
+Generated shape: I
+Generated shape: S
+Generated shape: O
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Generated shape: T
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: T
+Generated shape: O
+Generated shape: T
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: Z
+Generated shape: L
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: T
+Generated shape: Z
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: L
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Generated shape: T
+Generated shape: I
+Generated shape: J
+Generated shape: O
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: S
+Generated shape: T
+Generated shape: I
+Generated shape: J
+Generated shape: S
+Generated shape: Z
+Generated shape: S
+Generated shape: Z
+Generated shape: I
+Generated shape: J
+Generated shape: T
+Generated shape: J
+Generated shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: I
+Generated shape: S
+Generated shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Generated shape: T
+Generated shape: S
+Generated shape: L
+Generated shape: O
+Generated shape: T
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: I
+Generated shape: S
+Generated shape: L
+Generated shape: L
+Cleared by shape: L
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: O
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: Z
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: T
+Generated shape: L
+Generated shape: J
+Generated shape: Z
+Generated shape: T
+Generated shape: T
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: Z
+Generated shape: S
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: I
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: L
+Generated shape: T
+Generated shape: L
+Generated shape: O
+Generated shape: T
+Cleared by shape: T
+Generated shape: T
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: S
+Generated shape: O
+Generated shape: L
+Cleared by shape: L
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: T
+Generated shape: L
+Generated shape: O
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: T
+Cleared by shape: T
+Generated shape: L
+Generated shape: J
+Generated shape: S
+Generated shape: Z
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: O
+Generated shape: L
+Generated shape: T
+Generated shape: T
+Generated shape: J
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: Z
+Generated shape: L
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: L
+Generated shape: I
+Generated shape: I
+Generated shape: S
+Generated shape: L
+Cleared by shape: L
+Generated shape: J
+Generated shape: J
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: T
+Generated shape: O
+Generated shape: I
+Generated shape: S
+Generated shape: S
+Generated shape: L
+Generated shape: L
+Cleared by shape: L
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: J
+Generated shape: I
+Generated shape: T
+Cleared by shape: T
+Generated shape: T
+Cleared by shape: T
+Generated shape: S
+Generated shape: O
+Generated shape: S
+Generated shape: I
+Generated shape: O
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: T
+Generated shape: O
+Generated shape: L
+Generated shape: O
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Generated shape: L
+Generated shape: L
+Generated shape: S
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: T
+Cleared by shape: T
+Generated shape: I
+Generated shape: O
+Generated shape: T
+Cleared by shape: T
+Generated shape: O
+Generated shape: S
+Generated shape: O
+Generated shape: S
+Generated shape: Z
+Generated shape: Z
+Generated shape: J
+Generated shape: J
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Cleared by shape: T
+Generated shape: T
+Generated shape: T
+Generated shape: O
+Generated shape: Z
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: T
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: J
+Generated shape: S
+Generated shape: O
+Generated shape: T
+Generated shape: L
+Generated shape: S
+Generated shape: L
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Cleared by shape: i
+Cleared by shape: i
+Cleared by shape: i
+Generated shape: S
+Generated shape: J
+Generated shape: I
+Generated shape: Z
+Generated shape: O
+Generated shape: L
+Generated shape: J
+Generated shape: Z
+Generated shape: T
+Generated shape: L
+Generated shape: O
+Generated shape: J
+Generated shape: J
+Generated shape: I
+Generated shape: O
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: O
+Generated shape: S
+Generated shape: S
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: Z
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Cleared by shape: i
+Cleared by shape: i
+Generated shape: I
+Generated shape: J
+Generated shape: L
+Generated shape: Z
+Generated shape: Z
+Generated shape: S
+Generated shape: T
+Generated shape: O
+Generated shape: S
+Generated shape: J
+Generated shape: O
+Generated shape: T
+Generated shape: Z
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: T
+Generated shape: J
+Generated shape: T
+Generated shape: Z
+Generated shape: L
+Cleared by shape: L
+Generated shape:  
+Generated shape: J
+Generated shape: L
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: I
+Generated shape: S
+Generated shape: J
+Generated shape: O
+Generated shape: S
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape:  
+Generated shape: O
+Generated shape: O
+Generated shape: T
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: Z
+Generated shape: T
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Generated shape: I
+Generated shape: T
+Generated shape: O
+Generated shape: I
+Generated shape: O
+Generated shape: L
+Cleared by shape: L
+Generated shape:  
+Generated shape: O
+Generated shape: J
+Generated shape: L
+Cleared by shape: L
+Generated shape:  
+Cleared by shape:  
+Cleared by shape:  
+Generated shape: T
+Generated shape: S
+Generated shape: O
+Generated shape: O
+Generated shape: O
+Generated shape: L
+Cleared by shape: L
+Generated shape:  
+Cleared by shape:  
+Cleared by shape:  
+Generated shape: Z
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Generated shape: O
+Generated shape: J
+Generated shape: J
+Generated shape: I
+Generated shape: T
+Generated shape: O
+Generated shape: T
+Generated shape: I
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: Z
+Generated shape: T
+Generated shape: T
+Generated shape: S
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Cleared by shape: L
+Generated shape:  
+Cleared by shape:  
+Cleared by shape:  
+Generated shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: I
+Generated shape: I
+Generated shape: O
+Generated shape: T
+Generated shape: Z
+Generated shape: O
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: Z
+Generated shape: S
+Generated shape: L
+Generated shape: Z
+Generated shape: Z
+Generated shape: T
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: S
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: S
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: J
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Generated shape: Z
+Generated shape: O
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: O
+Generated shape: T
+Generated shape: S
+Generated shape: L
+Generated shape: T
+Generated shape: S
+Generated shape: I
+Generated shape: Z
+Generated shape: Z
+Generated shape: T
+Generated shape: I
+Generated shape: O
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: L
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: J
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Generated shape: T
+Generated shape: I
+Generated shape: T
+Generated shape: O
+Generated shape: L
+Generated shape: O
+Generated shape: I
+Generated shape: S
+Generated shape: O
+Generated shape: S
+Generated shape: T
+Generated shape: S
+Generated shape: O
+Generated shape: L
+Cleared by shape: L
+Generated shape:  
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: I
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Cleared by shape: i
+Cleared by shape: i
+Cleared by shape: i
+Cleared by shape: i
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: Z
+Generated shape: O
+Generated shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: i
+Generated shape: O
+Cleared by shape: O
+Generated shape: J
+Generated shape: O
+Generated shape: S
+Generated shape: T
+Generated shape: S
+Generated shape: S
+Generated shape: T
+Generated shape: T
+Cleared by shape: T
+Generated shape: I
+Generated shape: O
+Generated shape: O
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: I
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: S
+Generated shape: L
+Generated shape: T
+Generated shape: T
+Generated shape: J
+Generated shape: S
+Generated shape: J
+Generated shape: J
+Generated shape: J
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: T
+Generated shape: T
+Generated shape: L
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: T
+Cleared by shape: T
+Generated shape: O
+Generated shape: I
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Generated shape: J
+Generated shape: L
+Generated shape: T
+Generated shape: T
+Generated shape: O
+Generated shape: J
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: L
+Generated shape: Z
+Generated shape: S
+Generated shape: I
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: J
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 2
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: S
+Generated shape: O
+Generated shape: I
+Generated shape: T
+Generated shape: O
+Generated shape: Z
+Generated shape: Z
+Generated shape: I
+Generated shape: J
+Generated shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: O
+Generated shape: T
+Cleared by shape: T
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: L
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: Z
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: T
+Cleared by shape: T
+Generated shape: I
+Generated shape: Z
+Generated shape: J
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: L
+Generated shape: S
+Generated shape: Z
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: T
+Generated shape: Z
+Generated shape: Z
+Generated shape: L
+Generated shape: O
+Generated shape: T
+Generated shape: Z
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: u
+Cleared by shape:  
+Cleared by shape: 2
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: Z
+Generated shape: S
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: I
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: T
+Generated shape: L
+Generated shape: L
+Generated shape: Z
+Generated shape: O
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: J
+Cleared by shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: L
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: L
+Generated shape: T
+Generated shape: Z
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: S
+Generated shape: Z
+Generated shape: S
+Generated shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: I
+Generated shape: T
+Generated shape: J
+Generated shape: O
+Generated shape: Z
+Generated shape: T
+Generated shape: T
+Generated shape: J
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: L
+Generated shape: S
+Generated shape: Z
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: L
+Generated shape: S
+Generated shape: L
+Generated shape: Z
+Generated shape: Z
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 2
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: T
+Generated shape: Z
+Generated shape: O
+Generated shape: L
+Generated shape: L
+Generated shape: Z
+Generated shape: T
+Generated shape: O
+Generated shape: J
+Cleared by shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: Z
+Generated shape: J
+Generated shape: S
+Generated shape: T
+Cleared by shape: T
+Generated shape: I
+Generated shape: Z
+Generated shape: S
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Generated shape: O
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: I
+Generated shape: T
+Cleared by shape: T
+Generated shape: O
+Generated shape: O
+Generated shape: O
+Generated shape: S
+Generated shape: O
+Generated shape: O
+Generated shape: J
+Generated shape: O
+Generated shape: J
+Generated shape: S
+Generated shape: T
+Generated shape: O
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 2
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Cleared by shape:  
+Cleared by shape: 2
+Cleared by shape: 2
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: O
+Generated shape: T
+Generated shape: S
+Generated shape: Z
+Generated shape: I
+Generated shape: S
+Generated shape: S
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 2
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: O
+Generated shape: J
+Generated shape: L
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Generated shape: I
+Generated shape: J
+Generated shape: Z
+Generated shape: S
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: Z
+Generated shape: O
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: u
+Cleared by shape:  
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: O
+Generated shape: T
+Generated shape: O
+Generated shape: S
+Generated shape: Z
+Generated shape: J
+Cleared by shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: Z
+Generated shape: T
+Generated shape: I
+Generated shape: S
+Generated shape: Z
+Generated shape: T
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 2
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: L
+Generated shape: O
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: I
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: Z
+Generated shape: J
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: O
+Cleared by shape: O
+Generated shape: Z
+Generated shape: O
+Generated shape: O
+Generated shape: J
+Generated shape: J
+Generated shape: L
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 2
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: J
+Generated shape: O
+Generated shape: O
+Generated shape: J
+Generated shape: T
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Cleared by shape:  
+Cleared by shape: 2
+Cleared by shape: 2
+Generated shape: Z
+Generated shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: Z
+Generated shape: O
+Generated shape: T
+Generated shape: L
+Generated shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: S
+Generated shape: S
+Generated shape: Z
+Generated shape: I
+Generated shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: Z
+Generated shape: J
+Generated shape: L
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: L
+Generated shape: J
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: Z
+Generated shape: J
+Generated shape: J
+Generated shape: T
+Generated shape: T
+Generated shape: Z
+Generated shape: S
+Generated shape: T
+Generated shape: O
+Generated shape: L
+Generated shape: Z
+Generated shape: O
+Generated shape: T
+Generated shape: L
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: u
+Cleared by shape:  
+Cleared by shape: 6
+Cleared by shape: 6
+Cleared by shape: 6
+Generated shape: O
+Generated shape: S
+Generated shape: Z
+Generated shape: O
+Generated shape: T
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: I
+Generated shape: S
+Generated shape: L
+Generated shape: T
+Generated shape: O
+Generated shape: T
+Generated shape: I
+Generated shape: S
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 6
+Cleared by shape: 6
+Cleared by shape: 6
+Cleared by shape: 6
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: J
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: Z
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: T
+Generated shape: O
+Generated shape: T
+Generated shape: O
+Generated shape: S
+Generated shape: J
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: J
+Generated shape: T
+Generated shape: Z
+Generated shape: S
+Generated shape: J
+Generated shape: J
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: T
+Cleared by shape: T
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: T
+Generated shape: T
+Generated shape: O
+Generated shape: L
+Generated shape: I
+Generated shape: S
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: T
+Generated shape: I
+Cleared by shape: I
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Cleared by shape:  
+Cleared by shape: 6
+Generated shape: S
+Generated shape: O
+Generated shape: L
+Generated shape: O
+Generated shape: S
+Generated shape: S
+Generated shape: L
+Generated shape: I
+Generated shape: J
+Generated shape: O
+Generated shape: O
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 6
+Cleared by shape: 6
+Generated shape: O
+Generated shape: O
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: L
+Generated shape: O
+Generated shape: T
+Generated shape: Z
+Generated shape: Z
+Generated shape: O
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Generated shape: J
+Generated shape: O
+Generated shape: S
+Generated shape: I
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: u
+Cleared by shape:  
+Cleared by shape: 6
+Cleared by shape: 6
+Cleared by shape: 6
+Cleared by shape: 6
+Cleared by shape: 6
+Generated shape: I
+Generated shape: J
+Generated shape: T
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 6
+Cleared by shape: 6
+Generated shape: O
+Generated shape: Z
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: J
+Generated shape: S
+Generated shape: I
+Generated shape: L
+Generated shape: I
+Generated shape: O
+Generated shape: Z
+Generated shape: O
+Generated shape: S
+Generated shape: J
+Generated shape: T
+Generated shape: T
+Generated shape: S
+Generated shape: T
+Generated shape: J
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: L
+Generated shape: O
+Generated shape: S
+Generated shape: T
+Generated shape: L
+Generated shape: S
+Generated shape: T
+Generated shape: O
+Generated shape: I
+Generated shape: I
+Generated shape: S
+Generated shape: J
+Generated shape: I
+Generated shape: I
+Generated shape: O
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: O
+Generated shape: S
+Generated shape: Z
+Generated shape: L
+Generated shape: L
+Generated shape: S
+Generated shape: Z
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: Z
+Generated shape: I
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: T
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: u
+Cleared by shape:  
+Cleared by shape: 6
+Cleared by shape: 6
+Cleared by shape: 6
+Cleared by shape: 6
+Generated shape: Z
+Generated shape: L
+Generated shape: S
+Generated shape: L
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 6
+Cleared by shape: 6
+Cleared by shape: 6
+Generated shape: Z
+Generated shape: S
+Generated shape: I
+Generated shape: L
+Generated shape: S
+Generated shape: J
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: T
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: S
+Cleared by shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: T
+Generated shape: I
+Generated shape: I
+Generated shape: Z
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: O
+Generated shape: O
+Generated shape: O
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: J
+Generated shape: J
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 6
+Generated shape: O
+Generated shape: Z
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: J
+Generated shape: S
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: S
+Generated shape: S
+Generated shape: J
+Generated shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: T
+Generated shape: T
+Generated shape: O
+Generated shape: L
+Generated shape: O
+Generated shape: S
+Generated shape: T
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: J
+Generated shape: T
+Generated shape: S
+Generated shape: I
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: I
+Generated shape: T
+Generated shape: L
+Generated shape: Z
+Generated shape: S
+Generated shape: T
+Generated shape: Z
+Cleared by shape: Z
+Generated shape: L
+Generated shape: J
+Generated shape: T
+Cleared by shape: T
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Cleared by shape: I
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: S
+Cleared by shape: S
+Cleared by shape: S
+Generated shape: S
+Generated shape: O
+Generated shape: O
+Generated shape: L
+Generated shape: S
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 6
+Cleared by shape: 6
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: I
+Generated shape: Z
+Generated shape: S
+Generated shape: Z
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 6
+Cleared by shape: 6
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: S
+Generated shape: S
+Generated shape: I
+Generated shape: T
+Cleared by shape: T
+Cleared by shape: T
+Generated shape: J
+Generated shape: S
+Generated shape: O
+Generated shape: Z
+Generated shape: Z
+Generated shape: S
+Generated shape: L
+Generated shape: I
+Cleared by shape: I
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: Z
+Cleared by shape: Z
+Cleared by shape: Z
+Generated shape: L
+Generated shape: Z
+Generated shape: S
+Generated shape: Z
+Generated shape: O
+Cleared by shape: O
+Cleared by shape: 6
+Cleared by shape: 6
+Generated shape: I
+Generated shape: S
+Generated shape: I
+Cleared by shape: I
+Generated shape: O
+Cleared by shape: O
+Generated shape: J
+Generated shape: L
+Generated shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: J
+Generated shape: T
+Generated shape: L
+Cleared by shape: L
+Cleared by shape: L
+Generated shape: u
+Generated shape: I
+Generated shape: I
+Generated shape: Z
+Generated shape: I
+Generated shape: Z
+Generated shape: T
+Generated shape: J
+Cleared by shape: J
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Cleared by shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: o
+Generated shape: J
+Generated shape: J
+Generated shape: Z
+Generated shape: Z
+Generated shape: L
+Generated shape: S
+Generated shape: J
+Generated shape: Z
+Generated shape: O
+Generated shape: Z
+Generated shape: J
+Generated shape: Z
+Generated shape: O

@@ -1,7 +1,12 @@
 #pragma once
 
 #include <SFML/Graphics.hpp>
+#include <SFML/Audio.hpp>
 #include <memory>
+#include <vector>
+#include <cstdint>
+#include <fstream>
+#include <iostream>
 
 class Tetris {
 
@@ -23,22 +28,33 @@ class Tetris {
   sf::Clock clock;
   sf::Font  font;
   sf::Text txtScore, txtGameOver;
+  sf::Music music;
+  std::vector<std::string> musicFiles;
+  std::size_t currentMusicIndex;
 
-  int dirx, color, score;
-  bool rotate, gameover;
+  int dirx, color, score, specialShape1 = 0;
+  bool rotate, gameover, generateSpecialBlocks, specialShape2 = false;
   float timercount, delay;
+  std::ofstream logFile;
+  std::uint32_t currentShape;
+  int scoreThreshold;
 
-  protected:
-    void events();
-    void draw();
-    void moveToDown();
-    void setRotate();
-    void resetValues();
-    void changePosition();
-    bool maxLimit();
-    void setScore();
+protected:
+  void events();
+  void draw();
+  void moveToDown();
+  void setRotate();
+  void resetValues();
+  void changePosition();
+  bool maxLimit();
+  void setScore();
+  void fillRandomLines(std::uint32_t count);
+  void fillTopLine(); 
+  void fillBottomLine();
+  void switchMusic();
 
-  public:
-    Tetris();
-    void run();
+public:
+  Tetris();
+  ~Tetris();
+  void run();
 };

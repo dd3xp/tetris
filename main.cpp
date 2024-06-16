@@ -6,4 +6,3 @@ int main( int argc , char **argv ){
   tetris->run();
   return 0;
 }
-
